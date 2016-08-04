@@ -1,0 +1,21 @@
+     div{ 
+	
+		background-color: #be4061; /*color fondo*/ 
+		border: 110px solid #e7a219; /*color naranja para el borde*/ 
+		margin: 10px,15px,15px,10px; 
+		padding: 20px; 
+		
+		} 
+
+	 div{ 
+	
+		background-color: purple; /*color fondo*/ 
+
+	    } 
+	  
+	  p {
+    	
+    	text-align: justify;  
+    	text-align-last: center;
+	    
+	    }
